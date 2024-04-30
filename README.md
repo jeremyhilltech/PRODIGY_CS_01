@@ -1,7 +1,7 @@
 # PRODIGY_CS_01
 Implement Caesar Cipher
 
-In this exercise, I used Python to implement a Caesar Cipher which will accept input from a user that they wish to encrypt. The program takes the input and skews it according to the value of the input submitted by the user, known as the key, using either postive or negative values, that will in turn output the encrypted text that the user can then deploy as they wish. This key can be used not only for encryption of a given set of values, but also used to decrypt user inputs as well. 
+In this exercise, I used Python to implement a Caesar Cipher which will accept input from a user that they wish to encrypt. The program takes the input and skews it according to the value of the input submitted by the user, known as the key, using either positive or negative values, that will in turn output the encrypted text that the user can then deploy as they wish. This key can be used not only for encryption of a given set of values, but also used to decrypt user inputs as well. 
 
 The caesar cipher was created by Julius Caesar so that he could encrypt his handwritten messages to keep his military enemies from discovering his plans should any messages by intercepted. 
 
