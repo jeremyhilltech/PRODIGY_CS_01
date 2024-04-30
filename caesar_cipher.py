@@ -26,6 +26,6 @@ def caesar_shifter(user_input, shift_value):
 
     print(result)
 
-user_message = input("Secret message to encrypt/decrypt?:")
+user_message = input("What message do you wish to encrypt/decrypt your Majesty?:")
 user_shift = int(input("Shift by how many values?"))
 caesar_shifter(user_message, user_shift)
