@@ -1,5 +1,4 @@
-# PRODIGY_CS_01
-Implement Caesar Cipher
+# Simple Python Caesar Cipher
 
 The program takes user input and skews it according to the desired value, known as the key, using either positive or negative values, that will in turn output the encrypted text that the user may use as they wish. This key can be used to encrypt a set of given input or to decrypt said input using it's negative value.
 
